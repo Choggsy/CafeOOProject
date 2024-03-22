@@ -1,6 +1,6 @@
 package org.example.menu;
 
-public enum GlassType {
+public enum ContainerType {
     CUP,
     MUG,
     GLASS
