@@ -1,4 +1,4 @@
-package org.example.menu;
+package org.example.menu.drinks.drink;
 
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.EnumSource;
